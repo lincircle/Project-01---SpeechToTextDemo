@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					5752FE951D9CB205000D20FA = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4QX528523R;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4QX528523R;
 				INFOPLIST_FILE = SpeechToTextDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Yuhsuan-Lin.SpeechToTextDemo";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4QX528523R;
 				INFOPLIST_FILE = SpeechToTextDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Yuhsuan-Lin.SpeechToTextDemo";
